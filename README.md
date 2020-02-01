@@ -11,7 +11,7 @@
 ### General info
 The application was created to improve bartending work and provide them with a range of recipes for exquisite cocktails and drinks. This makes their work much simpler and more varied because they have a lot to choose from.
 
-![Home Page](./docs/home.png)
+![Home Page](./docs/home.PNG)
 
 ## Features
 
